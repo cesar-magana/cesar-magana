@@ -3,7 +3,6 @@
 <!--
 **cesar-magana/cesar-magana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![](https://komarev.com/ghpvc/?username=cesar-magana)
 
 I am a Research Engineer at Continental Automotive. I live in Mexico between the cities of Guadalajara and Queretaro. I am a former student of Mathematics at Universidad de Guanajuato and Computer Science at CIMAT. Previously worked as a freelancer and Software Engineer for TCS, Morgan Stanley, Abstra and CIMAT.
 
@@ -15,3 +14,4 @@ I am a Research Engineer at Continental Automotive. I live in Mexico between the
 - 💬 Ask me about C++, Linux, Responsible AI.
 - 📫 How to reach me: [Twitter](https://twitter.com/cesar_magana), [LinkedIn](https://www.linkedin.com/in/cesarmagana/).
 
+![](https://komarev.com/ghpvc/?username=cesar-magana)
