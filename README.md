@@ -7,6 +7,8 @@ I am a Research Engineer at Continental Automotive. I live in Mexico between the
 
 - 🔭 I’m currently working on Neural Networks Robustness and Responsible AI
 - 🌱 I’m currently learning Explainable AI.
+- 📚 I’m currently reading An Introduction to Statistical Learning: with Applications in R by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani and 📝 Explainability of vision-based autonomous driving systems: Review and challenges
+ https://arxiv.org/abs/2101.05307
 - 👯 I’m looking to collaborate on research AI projects.
 - 🤔 I’m looking for help with Reinforcement Learning.
 - 💬 Ask me about C++, Linux, Responsible AI.
