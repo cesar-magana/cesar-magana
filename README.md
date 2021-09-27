@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cesar-magana)
 
-I am a Research Engineer at Continental Automotive. I live in Mexico between the cities of Guadalajara and Queretaro. I am a former student of Mathematics at Universidad de Guanajuato and Computer Science at CIMAT.
+I am a Research Engineer at Continental Automotive. I live in Mexico between the cities of Guadalajara and Queretaro. I am a former student of Mathematics at Universidad de Guanajuato and Computer Science at CIMAT. Previously worked as a freelancer and Software Engineer for TCS, Morgan Stanley, Abstra and CIMAT.
 
 - 🔭 I’m currently working on Neural Networks Robustness and Responsible AI
 - 🌱 I’m currently learning Explainable AI.
