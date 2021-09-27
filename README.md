@@ -16,4 +16,5 @@ I am a Research Engineer at Continental Automotive. I live in Mexico between the
 - 💬 Ask me about C++, Linux, Responsible AI.
 - 📫 How to reach me: Twitter, LinkedIn
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cesar-magana&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
