@@ -12,6 +12,7 @@ I am an R&D Machine Learning Engineer at Continental Automotive. I live in Mexic
 - 👯 I’m looking to collaborate on Machine Learning projects.
 - 🤔 I’m looking for help with Classic Computer Vision.
 - 💬 Ask me about Machine Learning, Mathematics, C++, Linux, Responsible AI.
-- 📫 How to reach me: [Twitter](https://twitter.com/cesar_magana), [LinkedIn](https://www.linkedin.com/in/cesarmagana/).
+- ⚡ Social Media: [Twitter](https://twitter.com/cesar_magana)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cesarmagana/).
 
 ![](https://komarev.com/ghpvc/?username=cesar-magana)
